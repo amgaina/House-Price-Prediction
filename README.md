@@ -1,7 +1,7 @@
 # House Price Prediction Web Application
 
 ## Overview
-This project is a Flask-based web application for predicting house prices in the Bangalore area. The application uses a linear regression machine learning algorithm to predict house prices based on features such as the number of bathrooms, bedrooms, area in square feet, and location. The model achieves an accuracy of approximately 88-90% in predicting house prices.
+This project is a Flask-based web application for predicting house prices in the Bangalore area. The application uses a linear regression machine learning algorithm to predict house prices based on features such as the number of bathrooms, bedrooms, area in square feet, and location. The model achieves an accuracy of approximately 88-92% in predicting house prices.
 
 ## Features
 - **Data Loading and Cleaning**: Handles real-world data with loading, filtering, and cleaning processes.
@@ -26,8 +26,8 @@ This project is a Flask-based web application for predicting house prices in the
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/house-price-prediction.git
-cd house-price-prediction
+git clone https://github.com/your-username/House-Price-Prediction.git
+cd House-Price-Prediction
 ```
 ### Install Dependencies
 ```bash
